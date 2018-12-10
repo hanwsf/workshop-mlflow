@@ -21,3 +21,9 @@ example_1/outputs/
 example_2/mlruns/
 
 example_2/outputs/
+
+example_3/figures/
+
+example_3/mlruns/
+
+example_3/\.DS_Store
