@@ -1,0 +1,2 @@
+Run ID,Name,Source Type,Source Name,User,Status,Parameter 1,metric 1,metric 2,metric 3
+7fb46fd0c0e54e7d8fc200ecfb1d2f72,,LOCAL,/Users/eugenio.marinetto/dev/workshop-mlflow/example/code.py,eugenio.marinetto,FINISHED,61,0.9922128275860477,1.016918564688774,2.3513249060532897

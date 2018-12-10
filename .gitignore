@@ -1,0 +1,15 @@
+
+\.idea/
+
+venv/
+
+example_0/__pycache__/
+
+example_0/Icon
+
+example_1/Icon
+
+
+example_0/mlruns/
+
+example_0/outputs/
