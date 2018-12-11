@@ -31,3 +31,7 @@ example_3/\.DS_Store
 example_4/mlruns/
 
 example_4/figures/
+
+\.DS_Store
+
+example_5/mlruns/
